@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🏫 I’m currently working with --> Epitech
 - 🌱 I’m currently learning --> C / Python
-- 👯 I’m looking to collaborate on --> Nothing rhight now 😅
+- 👯 I’m looking to collaborate on --> Nothing right now 😅
 - 🤔 I’m looking for help with --> Mathematics
 - 💬 Ask me about --> Anything :)
 - 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu
