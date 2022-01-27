@@ -1,14 +1,12 @@
 ![image](https://user-images.githubusercontent.com/91740535/149844050-d2029860-e118-454a-9dda-7da592e341ae.png)
 
 
-### Hey ! Welcome on my personal GitHub 👋
+<h2 align="center"> Hey ! Welcome on my personal GitHub 👋 </h4>
 
 - 🏫 I’m currently working at --> Epitech
 - 🌱 I’m currently learning --> C / Python
-- 👯 I’m looking to collaborate on --> Nothing right now 😅
-- 🤔 I’m looking for help with --> Mathematics
 - 💬 Ask me about --> Anything :)
-- 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu
+- 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu || [Discord](dsc.bio/MaxAuMax)
 - 😄 Pronouns: --> He / Him
 - ⚡ Fun fact: --> I am 25% Moroccan and Algerian 🇲🇦 🇩🇿 (even tho i'm white like milk)
 
