@@ -4,10 +4,9 @@
 <h2 align="center"> Hey ! Welcome on my personal GitHub 👋 </h4>
 
 - 🏫 I’m currently working at --> Epitech
-- 🌱 I’m currently learning --> C / Python
+- 🌱 I’m currently learning --> C / Python / JS (& HTML / CSS)
 - 💬 Ask me about --> Anything :)
 - 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu || [Discord](dsc.bio/MaxAuMax)
-- 😄 Pronouns: --> He / Him
 - ⚡ Fun fact: --> I am 25% Moroccan and Algerian 🇲🇦 🇩🇿 (even tho i'm white like milk)
 
 ## My Stats
