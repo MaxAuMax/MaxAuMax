@@ -6,7 +6,7 @@
 - 🏫 I’m currently working at --> Epitech
 - 🌱 I’m currently learning --> C / Python / JS (& HTML / CSS)
 - 💬 Ask me about --> Anything :)
-- 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu || [Discord](dsc.bio/MaxAuMax) || ![Linkedin](https://www.linkedin.com/in/maxime-mallet-82bb3322a/)
+- 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu || [Linkedin](https://www.linkedin.com/in/maxime-mallet-82bb3322a/)
 - ⚡ Fun fact: --> I am 25% Moroccan and Algerian 🇲🇦 🇩🇿 (even tho i'm white like milk)
 
 ## My Stats
