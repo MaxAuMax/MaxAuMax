@@ -12,3 +12,5 @@
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxAuMax)                                        
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAuMax&layout=compact)
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MaxAuMax.png)
