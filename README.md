@@ -3,8 +3,8 @@
 
 <h2 align="center"> Hey ! Welcome on my personal GitHub 👋 </h4>
 
-- 🏫 I’m currently working at --> Epitech
-- 🌱 I’m currently learning --> C / Python / JS (& HTML / CSS)
+- 🏫 I’m currently studying at Epitech
+- 🌱 I’m currently learning --> C / Python at school && Swift at work
 - 💬 Ask me about --> Anything :)
 - 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu || [Linkedin](https://www.linkedin.com/in/maxime-mallet-82bb3322a/)
 - ⚡ Fun fact: --> I am 25% Moroccan and Algerian 🇲🇦 🇩🇿 (even tho i'm white like milk)
