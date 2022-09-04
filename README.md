@@ -1,16 +1,10 @@
-![image](https://user-images.githubusercontent.com/91740535/149844050-d2029860-e118-454a-9dda-7da592e341ae.png)
+<h1 align="center"> Hey ! Welcome on my personal GitHub 👋 </h1>
 
-
-<h2 align="center"> Hey ! Welcome on my personal GitHub 👋 </h4>
-
-- 🏫 I’m currently studying at Epitech
-- 🌱 I’m currently learning --> C / Python at school && Swift at work
-- 💬 Ask me about --> Anything :)
-- 📫 How to reach me: --> Epitech E-mail : maxime.mallet@epitech.eu || [Linkedin](https://www.linkedin.com/in/maxime-mallet-82bb3322a/)
-- ⚡ Fun fact: --> I am 25% Moroccan and Algerian 🇲🇦 🇩🇿 (even tho i'm white like milk)
+- 👨🏻‍🎓 Currently in 2nd year at Epitech Technology
+- 👨🏻‍💻 Learning C / C++ at school && Swift / SwiftUI during internship
+- 📫 How to reach me ? maxime.mallet@epitech.eu | | [Linkedin](https://www.linkedin.com/in/maxime-mallet-82bb3322a/)
 
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxAuMax)                                        
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAuMax&layout=compact)
+![My Stats](https://github-readme-stats.vercel.app/api?username=MaxAuMax&theme=dracula&show_icons=true)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MaxAuMax.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAuMax&theme=dracula&layout=compact)
