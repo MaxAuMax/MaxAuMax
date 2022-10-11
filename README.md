@@ -8,6 +8,6 @@
 </body>
 
 ## My Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=MaxAuMax&theme=dracula&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=MaxAuMax&count_private=true&theme=dracula&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAuMax&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAuMax&langs_count=6&theme=dracula&layout=compact)
