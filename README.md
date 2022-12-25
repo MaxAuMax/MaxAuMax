@@ -2,7 +2,7 @@
   <h1 align="center"> Hey ! Welcome on my personal GitHub 👋 </h1>
   <ul>
     <li>🧑🏻‍🎓 Currently in 2nd year at Epitech Technology</li>
-    <li>👨🏻‍💻 Learning C / C++ at school && Swift / SwiftUI during internship</li>
+    <li>👨🏻‍💻 Learning C / C++ at school && Swift / SwiftUI during free time</li>
     <li>📫 How to reach me ? maxime.mallet@epitech.eu : <a href="https://www.linkedin.com/in/maxime-mallet-82bb3322a/">Linkedin</a></li>
   </ul>
   
