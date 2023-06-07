@@ -8,7 +8,7 @@
   
   <h2> My Stats </h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=MaxAuMax&count_private=true&theme=dracula&show_icons=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=MaxAuMax&include_all_commits=true&theme=dracula&show_icons=true"
          align="top"
          width="420">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAuMax&langs_count=6&theme=dracula&layout=compact"
