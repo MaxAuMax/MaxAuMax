@@ -1,4 +1,9 @@
-<svg width="164" height="184" viewBox="0 0 164 184" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M164 0H0V57.7747H164V0Z" fill="#6551F3"/>
-<path d="M0 111.964C46.6561 69.855 117.344 69.855 164 111.964V183.967L163.968 184L82 101.05L0.0321526 184L0 183.967V111.964Z" fill="#6551F3"/>
+<svg width="184" height="184" viewBox="0 0 184 184" xmlns="http://www.w3.org/2000/svg">
+  <rect width="184" height="184" rx="20" fill="#6551F3"/>
+
+  <!-- White shapes scaled down and centered -->
+  <g transform="translate(23.12 14.72) scale(0.84)">
+    <path d="M164 0H0V57.7747H164V0Z" fill="white"/>
+    <path d="M0 111.964C46.6561 69.855 117.344 69.855 164 111.964V183.967L163.968 184L82 101.05L0.0321526 184L0 183.967V111.964Z" fill="white"/>
+  </g>
 </svg>
